@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Students develop programming skills that serve as a foundation for further study in computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  au-cs-intro2-spring24
+github_username:  au-cs-intro2-fall25
 
 # Build settings
 theme: minima
