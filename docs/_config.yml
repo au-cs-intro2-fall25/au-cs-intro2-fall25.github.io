@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CSC 208 | Introduction to Computer Science II
-author: Profs. Corizzo and Godwin
+author: Profs. Corizzo and Riley
 description: >- # this means to ignore newlines until "baseurl:"
   Students develop programming skills that serve as a foundation for further study in computer science.
 baseurl: "" # the subpath of your site, e.g. /blog
