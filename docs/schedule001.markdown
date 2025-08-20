@@ -54,7 +54,7 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 - Tue., Sep. 30 Object-Oriented Pygame II
   - Reading:
     - oop Ch 6
-- Fri., Oct. 3 GUI Widgets in Pygame ** Family Weekend **
+- Fri., Oct. 3 GUI Widgets in Pygame
   - Reading:
     - oop Ch 7
 
@@ -111,7 +111,7 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 - Tue., Nov. 25 Sorting I 
   - Reading:
     - ds Ch 5.6-10
-- Fri., Nov. 28 ** Thanksgiving holiday; no classes (11/26 - 11/30) ** 
+- Fri., Nov. 28 ** Thanksgiving : no class ** 
 
 ### Week 15
 - Tue., Dec. 2 Sorting II
