@@ -65,7 +65,7 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 - Fri., Oct. 10 Fall Break; no classes
   - Reading:
     - oop Ch 9
-    
+
 ### Week 8
 - Tue., Oct. 14 Polymorphism
   - Reading:
