@@ -109,7 +109,7 @@ This schedule includes planned topics, exams, and semester breaks. For individua
     - ds Ch 5.1-5.5 
 
 ### Week 14
-- Tue., Nov. 25 Sorting I 
+- Tue., Nov. 25 Sorting I (Online)
   - Reading:
     - ds Ch 5.6-10
 - Fri., Nov. 28 ** Thanksgiving : no class ** 
