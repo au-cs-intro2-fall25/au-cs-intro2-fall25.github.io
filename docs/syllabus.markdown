@@ -9,13 +9,13 @@ permalink: /syllabus/
 #### Instructor
 
 #### Sections 001
-- **Instructor**: Professor Alex Godwin
-- **Email**: [godwin@american.edu](godwin@american.edu)
-- **Website**: [Alex Godwin Website](https://jagodwin.github.io/)
-- **Office**: DMTI 112C
-- **Office Hours**: Tue/Wed/Fri: 11:30am-12:30pm. Zoom meetings are also available on request during these hours.
+- **Instructor**: Professor Kathleen Riley
+- **Email**: [kriley@american.edu](kriley@american.edu)
+- **Website**: [Kathleen Riley Website](https://www.american.edu/cas/faculty/kriley.cfm)
+- **Office**: DMTI 112D
+- **Office Hours**: TBD
 - **First Day of Class**: Tue., Aug. 27
-  - Section 001: Meets 9:45 AM - 11:00 AM T/F in DMTI 119
+  - Section 001: Meets 9:45 AM - 11:00 AM T/F in DMTI TBD
 
 #### Section 002
 - **Instructor**: Professor Roberto Corizzo
@@ -23,19 +23,19 @@ permalink: /syllabus/
 - **Website**: [Roberto Corizzo Website](https://www.rcorizzo.com/)
 - **Office**: DMTI 112E
 - **Office Hours**:
-  - T: 4:00 PM-5:30 PM
+  - T: 5:00 PM-6:30 PM
   - F: 4:00 PM-5:30 PM
   - In person (my office is located in DMTI 112E) or online. If you want to meet online, reserve your slot on Acuity and send me an email: you will receive a Zoom meeting link shortly before the scheduled time. Reservation on Acuity appreciated but not mandatory for in-person meeting - [Link](https://app.acuityscheduling.com/schedule.php?owner=21540415).
 - **First Day of Class**: Tue., Aug. 27
-  - Section 002: Meets 11:20 AM - 12:35 PM T/F in East Quad Building (EQB) 103
+  - Section 002: Meets 11:20 AM - 12:35 PM T/F in DMTI 121
 
 #### Teacher Assistants
-- **Section 1**: TBA
-- **Email**: 
-- **Office Hours**: 
-- **Section 2**: TBA
-- **Email**: 
-- **Office Hours**: 
+- **Section 1**: Katherine Nechyba 
+- **Email**: [kn9558a@american.edu](kn9558a@american.edu)
+- **Office Hours**: TBD
+- **Section 2**: Charlotte Owen  
+- **Email**: [co7368a@american.edu](co7368a@american.edu)
+- **Office Hours**: TBD
 
 ## Coronavirus Policies
 
