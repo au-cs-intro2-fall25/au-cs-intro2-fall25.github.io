@@ -126,4 +126,5 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 ---
 
 ### Week 15: Final Exams
-
+- Day: Tue, Dec 9, 2025	
+- Time: 11:20AM-01:50PM
