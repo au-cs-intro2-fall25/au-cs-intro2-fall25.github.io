@@ -126,4 +126,5 @@ This schedule includes planned topics, exams, and semester breaks. For individua
 ---
 
 ### Week 16: Final Exams
+- Fri., Dec 12 8:10 am classroom
 
